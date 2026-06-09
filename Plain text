@@ -1,0 +1,11 @@
+pedexx-wear/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+└── images/
+    ├── tanktop.png
+    ├── hoodie.png
+    ├── cap.png
+    └── logo.png
