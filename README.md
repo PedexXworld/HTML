@@ -1,4 +1,6 @@
-# HTML
+# HTML <div class="logo">
+    <img src="images/logo.png" alt="PedexX Logo">
+</div>
 <!DOCTYPE html>
 <html lang="en">
 <head>
